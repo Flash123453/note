@@ -1,0 +1,66 @@
+%导言区
+\documentclass[10pt]{ctexart}%book,report,letter
+%一般只有10、11、12磅再往上就没有了
+\usepackage{ctex}
+
+\newcommand{\myfont}{\textit{\textbf{\textsf{Fancy Text}}}}%自定义命令
+
+\newcommand\degree{^\circ}
+
+\title{\heiti 杂谈勾股定理}
+\author{\kaishu 刘佳林}
+\date{\today}
+
+%正文区（文稿区）
+\begin{document}
+	%字体族设置(罗马字体、无衬线字体、打字体字体)
+	\textrm{Roman Family} \textsf{Sans Serif Family} \texttt{Typewritter Family}%命令
+	
+    \rmfamily Roman Family {\sffamily Sans Serif Family} {\ttfamily Typewritter Family}%{}将文本分组，限定字体的作用范围
+    %声明
+    
+    %字体系列设置（粗细、宽度）
+    \textmd{Medium Series} \textbf{Boldface Series}
+    
+    {\mdseries Medium Series} {\bfseries Boldface Series}
+    
+    %字体形状（直立、斜体、伪斜体、小型大写）
+    \textup{Upright Shape} \textit{Italic Shape}
+    \textsl{Slanted Shape} \textsc{Small Caps Shape}%命令
+    
+    {\upshape Upright Shape} {\itshape Itlatic Shape} {\slshape Slanted Shape} {\scshape Small Caps Shape}%声明
+    
+    %中文字体
+    {\songti 宋体} \quad {\heiti 黑体} \quad{\fangsong 仿宋} \quad {\kaishu 楷书}
+    
+    中文字体的\textbf{粗体}与\textit{斜体}
+    
+    %字体大小
+    {\ting           Hello}\\
+    {\scriptsize     Hello}\\
+    {\footnotesize   Hello}\\
+    {\small          Hello}\\
+    {\normalsize     Hello}\\
+    {\large          Hello}\\
+    {\Large          Hello}\\
+    {\LARGE          Hello}\\
+    {\huge           Hello}\\
+    {\Huge           Hello}\\%指与normalsize相对的大小
+    
+    %中文字号设置命令
+    \zihao{-0} 你好！%-0表示小初号也可改为5号等 
+    
+    \myfont   
+    
+    
+    \maketitle
+	Hello World!%空行即换行
+	
+	%here is my big formula
+	Let $f(x)$ be defined by the formula
+	$$f(x)=3x^2+x-1$$ which is a polynomial of degree 2.
+	%$(行内公式)or$$(行间公式)包围的符号称为数学模式
+	\begin{equation}
+		内容...
+	\end{equation}%用于产生一个带编号（x）的行间公式
+\end{document}

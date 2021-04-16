@@ -1,0 +1,29 @@
+# Fdb version 3
+["xdvipdfmx"] 1604842811 "latexbasic.xdv" "latexbasic.pdf" "latexbasic" 1604842812
+  "latexbasic.xdv" 1604842811 2244 1bfc88967535c6145ba7f92d80017b8c "xelatex"
+  (generated)
+  "latexbasic.pdf"
+["xelatex"] 1604842807 "latexbasic.tex" "latexbasic.xdv" "latexbasic" 1604842812
+  "d:/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1603620728 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1603620413 1524 4414a8315f39513458b80dfc63bff03a ""
+  "d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1603620413 1512 f21f83efb36853c0b70002322c1ab3ad ""
+  "d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1603620413 1520 eccf95517727cb11801f4f1aee3a21b4 ""
+  "d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1603620413 1288 655e228510b4c2a1abe905c368440826 ""
+  "d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr6.tfm" 1603620413 1300 b62933e007d01cfd073f79b963c01526 ""
+  "d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1603620413 1292 21c1c5bfeaebccffdb478fd231a0997d ""
+  "d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1603620413 1124 6c73e740cf17375f03eec0ee63599741 ""
+  "d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1603620413 1116 933a60c408fc0a863a92debe84b2d294 ""
+  "d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1603620413 1120 8b7d695260f3cff42e636090a8002094 ""
+  "d:/texlive/2020/texmf-dist/tex/latex/base/article.cls" 1603620990 20023 e427dd9e17e239bf926ef3aab67fe35e ""
+  "d:/texlive/2020/texmf-dist/tex/latex/base/size10.clo" 1603620990 8446 9874cccac5fee462272c582807dbbf56 ""
+  "d:/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd" 1603620990 2431 b6cead9f069ed55f4fba0c637aa047b6 ""
+  "d:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def" 1603620977 24122 2811f916663c7ee4dc89a3107086b073 ""
+  "d:/texlive/2020/texmf-dist/web2c/texmf.cnf" 1603620965 39451 60d7debd9ef8ece44cbe965493576c2d ""
+  "d:/texlive/2020/texmf-var/web2c/xetex/xelatex.fmt" 1603622245 4769652 5acd13f1b76d2ae6ab00c8cfa2e47c50 ""
+  "d:/texlive/2020/texmf.cnf" 1603622125 673 4ae7b2f49cee444c5343a45b5d0f169c ""
+  "latexbasic.aux" 1604842811 8 a94a2480d3289e625eea47cd1b285758 "xelatex"
+  "latexbasic.tex" 1604842806 422 0f1ac4f24ca13024ca3492b21fff84ab ""
+  (generated)
+  "latexbasic.log"
+  "latexbasic.aux"
+  "latexbasic.xdv"
